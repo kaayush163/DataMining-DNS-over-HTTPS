@@ -1,4 +1,6 @@
 # Data-Mining-DNS-over-HTTPS
+Full Description
+https://www.unb.ca/cic/datasets/dohbrw-2020.html
 
 The main objective of this project is to deploy DoH within an application and capture benign as well as malicious DoH traffic as a two-layered approach to detect and characterize DoH traffic using time-series classifier.
 
@@ -9,3 +11,5 @@ The final dataset includes implementing DoH protocol within an application using
 ![layers](https://www.unb.ca/cic/_assets/images/doh-brw.jpg)
 
 I have taken subsets of data from each of the five browsers and merged them into First layer data and Second layer data. If you want the whole dataset, go to: http://205.174.165.80/CICDataset/DoHBrw-2020/
+
+
